@@ -1,12 +1,10 @@
 # Prato-Verde
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
+### Site de receitas veganas :fork_and_knife::herb:
 
-### App de receitas veganas :fork_and_knife::herb:
+O Prato Verde é um **site de receitas** com foco em culinária vegana. Ele foi desenvolvido como um projeto de estudo e aplicação prática de **React e Firebase**, com design **responsivo** priorizando a experiência em dispositivos móveis.
 
-O objetivo do projeto é criar um app de receitas onde é possível ver, filtrar, favoritar e compartilhar receitas. O layout vai ter como foco inical dispositivos móveis, sendo posteriormente adaptado para desktop.
+O objetivo principal foi criar uma interface completa onde os usuários pudessem **visualizar, interagir e gerenciar suas receitas favoritas** a partir de uma base de dados externa.
 
 ## :hammer: Funcionalidades
 
